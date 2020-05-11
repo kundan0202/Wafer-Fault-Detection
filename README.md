@@ -1,1 +1,1 @@
-# Water-Fault-Detecion
+# WaferFaultDetection
